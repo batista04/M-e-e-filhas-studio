@@ -192,3 +192,13 @@ body {
 .what-link:hover {
   color: #d85c8d;
 }
+
+.endereco-link {
+  text-decoration: none;
+  color: #444;
+  font-weight: 500;
+}
+
+.endereco-link:hover {
+  color: #d85c8d;
+}
